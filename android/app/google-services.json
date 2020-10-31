@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997026638713",
+    "firebase_url": "https://contact-us-form-5a214.firebaseio.com",
+    "project_id": "contact-us-form-5a214",
+    "storage_bucket": "contact-us-form-5a214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997026638713:android:5dda7fcc998afc8dc8dda8",
+        "android_client_info": {
+          "package_name": "com.pundrikaksha.contact_us_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997026638713-gcp68enqh8hlk901a76cd7mc05eb1s0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvh1xZcK-umJ_p6rWHBZn_qtCiJrjx_Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997026638713-gcp68enqh8hlk901a76cd7mc05eb1s0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
